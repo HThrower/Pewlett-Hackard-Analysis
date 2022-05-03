@@ -32,4 +32,4 @@ PostgreSQL pgAdmin
 
 ## Summary
  The amount of roles that will need to be filled as  people retire is 1,549. This is such a high number of people retiring and require that there be more time to develop new hiring. However, if more information could be collected to see why they are retiring or to give them more support through the mentoring program. The company may have to pay more to keep those from retiring to maintain their experience insight instead of finding and training new hires for high level positions
-There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees how there may not be enough new hire.
+There are enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees there may not be enough new hire.
